@@ -3,4 +3,7 @@ The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
 something more sensible
 Something hilarious
-A better edit than Ollie
+conflicting message
+
+CASE2: how dare Ollie overwrite my code!
+% but I'll forgive him
